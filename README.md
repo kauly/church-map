@@ -1,3 +1,5 @@
 # Church Map
 
-## Install
+## Demo
+
+https://joyful-daffodil-16661f.netlify.app/
